@@ -1,0 +1,9 @@
+
+<Source ID="f066150f-b882-4e04-9533-ddf540619d23" Name="Live Elasticsearch Source" ResourceType="ElasticsearchSource" IsValid="false" ConnectionString="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZYgDRla0wEi9XDoTmhkekAQAAAACAAAAAAAQZgAAAAEAACAAAABFcyJeX19CDxfRP8or8Azt3ZvVYWZPJmkOOr1Q0QchWgAAAAAOgAAAAAIAACAAAADlEKYw9Kelz18izVqG/RTD34pYoHC20FxoumWqcTCmnNAAAAARmcHQTSjGZFPwK0lX6NZIGM/I9bFW1HhKakeJTNmAlGdUxtFZrwbC19+cOr/VACGmkQ9OIffg+V9+HUUeqbQAkVpt16W1tqipIW6JcXmFa9mebadw7aaBNSbm235tVBSUlOeA1VoFXVVuy1pk6uCbqZG6ZS82GxjfIAlFK0wll9ooSPIp/qZasZqlSeRsuGdg/Cf/WtDZisTdqHvDPJCVKhb9BCWX9ExyE6UV8nKH13K29JJidafDf/crASFezoAWvSr6DUUxNZ4X9lRaMhXRQAAAAMHu7rHMdc0L/wxK2oNVaBQOUem/8PfWk0oXhcKQx01zSZh28fzgISdelxS4Ms0WEAszF2qr9Kfbkcis/L5KwJo=" Type="ElasticsearchSource" ServerVersion="2.4.3.3" ServerID="51a58300-7e9d-4927-a57b-e5d700b11b55">
+  <DisplayName>Live Elasticsearch Source</DisplayName>
+  <AuthorRoles>
+  </AuthorRoles>
+  <ErrorMessages />
+  <TypeOf>ElasticsearchSource</TypeOf>
+  <VersionInfo DateTimeStamp="2020-04-28T09:39:27.3908898+02:00" Reason="Save" User="Unknown" VersionNumber="1" ResourceId="f066150f-b882-4e04-9533-ddf540619d23" VersionId="0376524b-fba2-4a0b-9697-bcf03033f586" />
+</Source>

@@ -1,0 +1,9 @@
+
+<Source ID="83d12027-af1d-4045-95bb-4bb9629ae7b2" Name="GitTestRepo Git Source" ResourceType="GitSource" IsValid="false" ConnectionString="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZYgDRla0wEi9XDoTmhkekAQAAAACAAAAAAADZgAAwAAAABAAAAC3xqAfysm/VC589Ah1bVVpAAAAAASAAACgAAAAEAAAAMqyb9NWR3+b56sx8HXDxhYgAgAALEZoluKOkOelD0hGuTduHdmr0nle6UrMKeNJn30f/IraU1Qs1LRU8QZaHto+2PeJdcYXhs9smailW0rrdslP0VukvtekRhuYeWkh/WET/FUo3vNWHUz3BuIim3qGacdm9l/cw821uDkx5idnUz437YFvgJGVvMMVHSnoAU7CycdA8GtxWNAnQzPJgaO5OGRh1S4TntJI4CSsIMJjUUrHFYC7Mt0F9zSHRHGLAOL1yB7gMoRal5ZkzB+uKyQdGgnxBlXQ6SR9Oukhi9FPSL8DI1XdB679mSi9J9oVbG82GRbQ22vcKYfuFaYvE5uE0DbEqsEk46lBkiI2cJLFN/imkpDR7nlc43Zrq9Vz6G/runibskAf0FhL2bXzKk9Rf1VMhYuax8j6J4Dv0/vJxi7xgG4vZp8j7nM6Fn7l2V8wMvUepRNIbYaPiaSqLLek/jsYtYVNcIPKa1FjfwZJUCj571ExEdbQ15SA0fDHS0kdQZSmk2XRASyJJADIzZiv3Mqd3eSel1YvtsimCAWrMaMnFRUba+w5QyQS7sDK8niFyB5Q6C+UsaYzOA2g0wYtW7eu1ewU3CjlZzgjoh1lglxzVjWmCcbi3XWopZX0jG4GFYF5RK8rBsNuLVKHNpfeByfXakr9VCJy/uxiTH2SSV65ttK8ufzCTpAnHBw6WVOU9ReeKkD0Ri0VKoW4DBud+gDzOEzhCMWQ7O9uDLl7Oj7M/xQAAAA3vHZ79JNv8FC2GFVNyq0tKdY+Xw==" Type="GitSource" ServerVersion="2.4.3.3" ServerID="51a58300-7e9d-4927-a57b-e5d700b11b55">
+  <DisplayName>GitTestRepo Git Source</DisplayName>
+  <AuthorRoles>
+  </AuthorRoles>
+  <ErrorMessages />
+  <TypeOf>GitSource</TypeOf>
+  <VersionInfo DateTimeStamp="2020-04-29T08:47:34.1566187+02:00" Reason="Save" User="Unknown" VersionNumber="1" ResourceId="83d12027-af1d-4045-95bb-4bb9629ae7b2" VersionId="492833af-c997-485f-b249-5806fd0741b4" />
+</Source>

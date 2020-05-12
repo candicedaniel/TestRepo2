@@ -1,0 +1,9 @@
+
+<Source ID="21fadffd-84ba-43b7-9f4f-62062cf9f546" Name="Test RabbitMQ Source" ResourceType="RabbitMQSource" IsValid="false" ConnectionString="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZYgDRla0wEi9XDoTmhkekAQAAAACAAAAAAADZgAAwAAAABAAAAA5iqMqBqq+xAyfnsDCbBf6AAAAAASAAACgAAAAEAAAAJnW3KUy8ymA5RoPezIXpeqYAAAAEspcIgM2VPYWSObz6cKetYv48fQtZty8s4mBe7gglJiAoqwfrJ8sDxD4A7ylXkSsGqDs4eDy9QBidMbqdGK/BR5cXTg/d0uHJbPGmbQ1DNg2MD9dEbqr6wOSX2tkzpWiv5X9tkmLxmNRbw1tG3kcyHg/N2b9ITifW3+P6PkXUW5UHreZqdCDjoyYz47enjzy6hFHqHTBK1gUAAAAgRrpUXyWNnKf8V+LVi2iL71c2TQ=" Type="RabbitMQSource" ServerVersion="2.4.2.19" ServerID="51a58300-7e9d-4927-a57b-e5d700b11b55">
+  <DisplayName>Test RabbitMQ Source</DisplayName>
+  <AuthorRoles>
+  </AuthorRoles>
+  <ErrorMessages />
+  <TypeOf>RabbitMQSource</TypeOf>
+  <VersionInfo DateTimeStamp="2020-03-26T07:58:22.1058271+02:00" Reason="Save" User="Unknown" VersionNumber="1" ResourceId="21fadffd-84ba-43b7-9f4f-62062cf9f546" VersionId="476ca28e-8567-42e0-84de-eb4e1d6ba63a" />
+</Source>

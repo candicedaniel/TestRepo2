@@ -1,0 +1,9 @@
+
+<Source ID="096a4c92-1c3f-4e13-a602-1f3580b6abe4" Name="premier Elasticsearch Source" ResourceType="ElasticsearchSource" IsValid="false" ConnectionString="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZYgDRla0wEi9XDoTmhkekAQAAAACAAAAAAADZgAAwAAAABAAAAAB3TCqBQLfWCWGPhqvzD4uAAAAAASAAACgAAAAEAAAAO4fBwkXGe+Cic5C4yRRbujQAAAAZPv5v/B/4p9Cy6qmDS3v4qfrGnfjYoHDMNkFISfOufwuqSiH+Hs48QKWm+AYOOPRRdjONfRmT6woq+pBQnrdM3YRiXnr+XLDid33hu2nhbEEKVbg2+cMuq5tdtYVAjxIzoxyFcmGSLRBVoQ6BAAeInAAXVonDfTImfyt7QGA0FoMQrqrAqDudP4TVFSjjvnhWCylgP7Q0hyLMmZAIHAd8OfvEeG5JrzsqvnecszFDNCd9rjlOk60v1QmrLOi0qpiOiREXwLsBlj31FctbqnKsBQAAACs5qk4z/sWhjRwZzI7WdP/nZZFig==" Type="ElasticsearchSource" ServerVersion="2.4.2.19" ServerID="51a58300-7e9d-4927-a57b-e5d700b11b55">
+  <DisplayName>premier Elasticsearch Source</DisplayName>
+  <AuthorRoles>
+  </AuthorRoles>
+  <ErrorMessages />
+  <TypeOf>ElasticsearchSource</TypeOf>
+  <VersionInfo DateTimeStamp="2020-04-22T09:30:21.5216431+02:00" Reason="" User="PREMIER\Candice.Daniel" VersionNumber="6" ResourceId="096a4c92-1c3f-4e13-a602-1f3580b6abe4" VersionId="096a4c92-1c3f-4e13-a602-1f3580b6abe4" />
+</Source>

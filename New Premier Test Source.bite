@@ -1,0 +1,9 @@
+
+<Source ID="13e92a20-a1e0-4fe3-9b6d-3b85633b014e" Name="New Premier Test Source" ResourceType="ElasticsearchSource" IsValid="false" ConnectionString="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZYgDRla0wEi9XDoTmhkekAQAAAACAAAAAAADZgAAwAAAABAAAACmYA1xKNdjboBgA24m/FVcAAAAAASAAACgAAAAEAAAAOLcGbh+lkyoZCjEVH7HbUvQAAAAtBP6sif3XKat1AN46W5FdyZnUnggA6zffFYT8RZteOzSqq3mSRkl+I4b/jilz0PFnobD8FgE7BESh9nbbnIrFSGRzkN3ei2SMaXi13qtaIsfAanVsv3TYNhY/gPMqUC1H1zrMcK9TkKWKGRpt9+n75WmpbWRrhKSJlt7OBqgygxqeFvea5iwEi6xWdnTw0FJzv0W2t6fnQiSw4jO+XkPuX2tOkdeBiVLXp97bySGutURpmwMok0UDM9+oz8Isnj+hiRepAfBFrIMtksZ7heWJhQAAAC4Z4ZRN3gjtfPbVP+Yj1sT6VqVJg==" Type="ElasticsearchSource" ServerVersion="2.4.2.19" ServerID="51a58300-7e9d-4927-a57b-e5d700b11b55">
+  <DisplayName>New Premier Test Source</DisplayName>
+  <AuthorRoles>
+  </AuthorRoles>
+  <ErrorMessages />
+  <TypeOf>ElasticsearchSource</TypeOf>
+  <VersionInfo DateTimeStamp="2020-04-22T09:35:08.0525636+02:00" Reason="Save" User="Unknown" VersionNumber="1" ResourceId="13e92a20-a1e0-4fe3-9b6d-3b85633b014e" VersionId="238d4ba9-38a7-4023-8ece-5dd32583621a" />
+</Source>
